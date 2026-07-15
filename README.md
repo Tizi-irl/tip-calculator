@@ -5,8 +5,11 @@ A simple Python command-line application that calculates how much each person sh
 ## Features
 
 Enter the total bill amount.
+
 Choose a tip percentage (10%, 12%, or 15%).
-Enter the number of people splitting the bill (this wont affect the upcoming 
+
+Enter the number of people splitting the bill (this wont affect the resulft for now, it will be added in a feature update)
+
 Calculates the amount each person has to pay.
 
 ## What I Learned
