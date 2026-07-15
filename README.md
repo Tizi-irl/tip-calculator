@@ -16,8 +16,8 @@ Calculates the amount each person has to pay.
 
 This project helped me practice:
 
-Working with user input
-Performing mathematical calculations
-Using variables and data types
-Formatting output
+Working with user input,
+Performing mathematical calculations,
+Using variables and data types,
+Formatting output,
 Writing simple Python programs
